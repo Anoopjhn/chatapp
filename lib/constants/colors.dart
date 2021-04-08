@@ -1,0 +1,11 @@
+import 'package:flutter/material.dart';
+
+const PRIMARY_COLOR =  Color(0XFFFFA500);
+const APP_RED_COLOR = Color(0XFFEF2323);
+const APP_BLACK_COLOR = Color(0XFF000000);
+const APP_WHITE_COLOR = Color(0XFFFFFFFF);
+const APP_GREY_COLOR = Color(0XFF808080);
+const APP_MAGANTA_COLOR = Color(0XFFC90DA0);
+const APP_GREEN_COLOR = Color(0XFF0CAC43);
+const APP_BORDER_COLOR = Color(0XFFD2D2D2);
+const APP_OFF_WHITE = Color(0XFFDCDCDC);

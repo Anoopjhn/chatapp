@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632076041050",
+    "project_id": "achat-346d3",
+    "storage_bucket": "achat-346d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632076041050:android:404fb007d8997ba67b9163",
+        "android_client_info": {
+          "package_name": "com.webartistictechnosol.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632076041050-8om4fs468o0bpfd0pkj10sch2lmoa6iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC33qrQsofbfAj_tTPVb816iT2F9W7VcQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632076041050-8om4fs468o0bpfd0pkj10sch2lmoa6iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
